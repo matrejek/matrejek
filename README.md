@@ -7,6 +7,7 @@
 
 I am an iOS developer, currently @ Pegasystems, Kraków. I love facing new challenges while being motivated by delivering great stuff. Being an active teamplayer makes me happy - I enjoy working with people and sharing joy and knowledge with the community.
 
+- 📱After-hours author of [Meteo](https://apps.apple.com/pl/app/pogoda-um-meteo/id1248054435) and [KBC.air](https://apps.apple.com/pl/app/kbc-air-powietrze-w-bochni/id1291194393)
 - 🌱 Currently learning SwiftUI, playing with Combine and trying to work with kotlin-native
 - 👯 I’m looking to collaborate mainly on apps but if you feel that we can make something awesome together - just let me know!
 - 👨🏻‍💻 I'm posting at [matrejek.eu](https://matrejek.eu)
